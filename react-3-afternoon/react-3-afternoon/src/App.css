@@ -1,0 +1,157 @@
+.header-box {
+    background-color: lightseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    width: 100vw;
+    height: 60px;
+  }
+  
+  .main-body-box {
+    background-color: black;
+    justify-content: center;
+    padding: 100px;
+    width: 100vw;
+    height: 700px;
+  }
+  
+  .inside-body-box {
+    background-color: white;
+    width: 80vw;
+    height: 600px;
+  }
+  
+  .from-box {
+    padding-left: 100px;
+    height: 35px;
+    width: 500px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .job-title-box {
+    padding-left: 100px;
+    height: 35px;
+    width: 500px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .employer-box {
+    padding-left: 100px;
+    height: 35px;
+    width: 500px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .favorite-movies-box {
+    padding-left: 100px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    height: 35px;
+    width: 500px;
+    color: black;
+    font-size: 20px;
+    font-weight:bold;
+  }
+  
+  .movie-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 150px;
+    color: black;
+    font-size: 20px;
+  }
+  
+  .name-box {
+    padding-left: 100px;
+    padding-bottom: 30px;
+    padding-top: 80px;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: blue;
+  }
+  
+  .tool-bar {
+    width: 80vw;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .previous-button {
+    width: 120px;
+    height: 50px;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border: none;
+  }
+  
+  .center-button-group {
+    width: 400px;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    background-color: black;
+  }
+  
+  .edit-button {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+  }
+  
+  .delete-button {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+  }
+  
+  .new-button {
+    width: 100px;
+    height: 50px;
+    background: blue;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    border: none;
+    border-radius: 25px;
+  }
+  
+  .next-button {
+    width: 120px;
+    height: 50px;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border: none;
+  }
